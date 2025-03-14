@@ -24,22 +24,38 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 ### Policies:
+
 Policy 1:
+
+
 ![image](https://github.com/user-attachments/assets/ddd0445d-09c0-4c43-9e95-a6c9d65ccf2b)
 
+
+
 Policy 2:
+
+
 ![image](https://github.com/user-attachments/assets/e09cf78c-3ea4-4874-ba0c-a237f6abc315)    
 
 
+
 ### State value function:
+
 State value function 1:
+
+
 ![image](https://github.com/user-attachments/assets/9ef31b32-9480-4366-a8d0-2b2af99532e3)
 
 State value function 2:
+
+
 ![image](https://github.com/user-attachments/assets/2b17156e-1ac7-453f-9539-ca7bdc018d6b)
 
 
+
 Best policy:
+
+
 ![image](https://github.com/user-attachments/assets/43a648ef-7143-4531-b7de-6514823784b6)
 
 
