@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/db37ea14-bd3d-4810-bc72-1cb26737b10e)# POLICY EVALUATION
-
 ## AIM
 To develop a Python program to evaluate the given policy.
 
