@@ -26,14 +26,14 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 Policy 1:
 
 
-![image](https://github.com/user-attachments/assets/ddd0445d-09c0-4c43-9e95-a6c9d65ccf2b)
-
+![image](https://github.com/user-attachments/assets/e09cf78c-3ea4-4874-ba0c-a237f6abc315)   
 
 
 Policy 2:
 
 
-![image](https://github.com/user-attachments/assets/e09cf78c-3ea4-4874-ba0c-a237f6abc315)    
+ 
+![image](https://github.com/user-attachments/assets/ddd0445d-09c0-4c43-9e95-a6c9d65ccf2b)
 
 
 
